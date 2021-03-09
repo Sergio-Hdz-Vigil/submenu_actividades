@@ -1,0 +1,17 @@
+body{
+     background-image: url(../img/fondo2.png);
+     background-size: 100%;
+     background-repeat: no-repeat;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Roboto', sans-serif;
+}
+h2, a{
+    color: white;
+    font-size: 3rem;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
